@@ -1,3 +1,7 @@
+## WARNING
+
+For this service to work, you must put in your own service worker, but it is not recommended due to lacking up-to-date security methods and protocols. I would recommend deploying from the TN Ultraviolet app repository.
+
 <p align="center"><img src="https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png" height="200"></p>
 
 <h1 align="center">Ultraviolet Static Version</h1>
