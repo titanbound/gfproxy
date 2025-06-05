@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/classroom/',
-    bare: 'https://read.lbss.dev.tc/',
+    bare: 'https://bare.lbss.dev.tc/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/uv/uv.handler.js',
