@@ -1,3 +1,6 @@
+> [!CAUTION]
+> If you are going to self-host Holy Unblocker LTS please switch to the PRODUCTION branch for filter evasion features. The master branch is intended for development work and a highly readable source for developers. You can select a production branch (v6.x_production) via the branches dropdown.
+
 ## WARNING
 
 For this service to work, you must put in your own service worker, but it is not recommended due to lacking up-to-date security methods and protocols. I would recommend deploying from the TN Ultraviolet app repository.
